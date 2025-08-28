@@ -3,22 +3,22 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #b92f2f;
 }
 
 header {
     text-align: center;
-    background-color: #333;
-    color: white;
+    background-color: #1d0f0f;
+    color: rgb(255, 255, 255);
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
 }
 
 section {
-    background-color: white;
+    background-color: rgb(87, 47, 47);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(199, 92, 92, 0.1);
 }
